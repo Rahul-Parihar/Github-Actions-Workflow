@@ -9,7 +9,7 @@ on:
       -production
 
 jobs:
-  hell0_word:
+  hello_word:
     runs-on: ubuntu-latetst
     steps:
       - name: "Print Hellow wold"
